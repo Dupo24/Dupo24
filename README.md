@@ -24,8 +24,8 @@ I blend deep technical expertise in cloud infrastructure with financial strategy
 - **Microsoft Certified: Azure Administrator Associate**
 - **Microsoft Certified: Azure Security Engineer Associate**
 - **Microsoft Certified: Azure DevOps Engineer Expert**
-- **Microsoft Certified: MCSA Windows Server 2016
-- **Microsoft Certified: MCSE Core Infrastructure
+- **Microsoft Certified: MCSA Windows Server 2016**
+- **Microsoft Certified: MCSE Core Infrastructure**
 - **Was an AWS Certified Solutions Architect Associate** I let this one expire as we weren't doing too much in the AWS space and moved on to study for the Professional Certification instead.
 - **Had a Security+ at one point**
 

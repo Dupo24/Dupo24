@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Dupo
+# 👋 Hi, I’m Dupo
 
-- 🚀 **IT Cloud Management Lead | FinOps Strategist | Multi‑Cloud Architect**
+🚀 **IT Cloud Management Lead | FinOps Strategist | Multi‑Cloud Architect and Engineer**
 
 I blend deep technical expertise in cloud infrastructure with financial strategy and leadership. My focus is on **optimizing cloud costs, driving efficiency, and building scalable architectures** across Azure and AWS.
 💞️ Thank you for looking at my github. This is my personal github, and all of its randomness is not related to my employer in any way.

@@ -1,4 +1,5 @@
-# 👋 Hi, I’m Dupo
+# 👋 Hi, I’m Dupo 👽
+It's actually Solomon, Dupo is my fun pseudonym when I build things. Microsoft has Contoso, I have Dupo.
 
 🚀 **IT Cloud Management Lead | FinOps Strategist | Multi‑Cloud Architect and Engineer**
 
@@ -45,7 +46,8 @@ I blend deep technical expertise in cloud infrastructure with financial strategy
 
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/solostroup)  
-- 📝 [X](https://x.com/solomon_stroup)  
+- 📝 [X](https://x.com/solomon_stroup)
+- 👽 [Solo's Site](https://www.solostroup.com)
 
 ---
 
